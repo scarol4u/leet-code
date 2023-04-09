@@ -1,1 +1,51 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled class file
+*.class
+
+# Log files
+log/
+*.log
+
+# Maven files and directories
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+mvnw
+mvnw.cmd
+.mvn/wrapper/
+
+# Gradle files and directories
+.gradle/
+build/
+
+# Eclipse files and directories
+bin/
+.settings/
+.classpath
+.project
+
+# Other build tools
 out/
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.iml
+*.ipr
+*.iws
